@@ -30,8 +30,8 @@ html {
 }
 
 body {
-    background-size: cover; !important;
-    background-repeat: no-repeat; !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
 }
 
 #container {
