@@ -95,12 +95,12 @@ p {
 }
 
 #search input {
-    height: 15px;
+    height: 25px;
     padding: 15px;
     border: 2px solid #fff;
     border-radius: 10px;
     font-family: 'Montserrat';
-    font-size: 0.7em;
+    font-size: 0.9em;
 }
 
 #search input:focus {
