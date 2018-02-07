@@ -75,11 +75,9 @@ p {
 }
 
 .slogan {
-
-
     position:absolute;
-    bottom:5em;
-    left:3em;
+    bottom: 4em;
+    left:2.2em;
     font-size: 3em;
     font-family: 'Handwriting';
     letter-spacing: 0.5px;
