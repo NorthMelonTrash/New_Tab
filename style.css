@@ -53,15 +53,15 @@ body {
 
 .clock {
     position:absolute;
-    top:1em;
-    right:1em;
+    top:0em;
+    right:0em;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #f05c9b;
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size: 5em;
+    font-size: 4em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
@@ -81,8 +81,8 @@ p {
 .slogan {
     position:absolute;
     bottom: 4em;
-    left:2.2em;
-    font-size: 3em;
+    left:3em;
+    font-size: 5em;
     font-family: 'BASKR___';
     letter-spacing: 0.5px;
 }
