@@ -48,18 +48,19 @@ body {
 
 .clock {
     position:absolute;
-    top:0em;
-    right:0em;
+    top:1em;
+    right:1em;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #f05c9b;
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size: 5em;
+    font-size: 3em;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.3px;
+    color: #A00000 !important;
 }
 
 #header {
@@ -77,9 +78,9 @@ p {
 
 
     position:absolute;
-    bottom: 4em;
-    left:2.2em;
-    font-size: 3em;
+    bottom:1.1em;
+    left:1.4em;
+    font-size: 8em;
     font-family: 'Handwriting';
     letter-spacing: 0.5px;
 }
@@ -103,7 +104,6 @@ p {
     src: url('Aller_Rg.ttf');
     font-family: 'Serif';
     font-size: 1.05em;
-    text-align: center;
 }
 
 #search input:focus {
