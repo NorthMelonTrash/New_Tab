@@ -103,6 +103,7 @@ p {
     src: url('Aller_Rg.ttf');
     font-family: 'Serif';
     font-size: 1.05em;
+    text-align: center;
 }
 
 #search input:focus {
