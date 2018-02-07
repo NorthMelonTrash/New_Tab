@@ -61,8 +61,7 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size: 3em;
-    font-weight: bold;
+    font-size: 5em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
@@ -84,7 +83,7 @@ p {
     bottom: 4em;
     left:2.2em;
     font-size: 3em;
-    font-family: 'Handwriting';
+    font-family: 'BASKR___';
     letter-spacing: 0.5px;
 }
 
