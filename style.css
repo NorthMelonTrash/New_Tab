@@ -80,7 +80,7 @@ p {
 
 .slogan {
     position:absolute;
-    bottom: 4em;
+    bottom: 3em;
     left:2em;
     font-size: 3em;
     font-family: 'Handwriting';
@@ -89,7 +89,7 @@ p {
 
 #search {
     position:absolute;
-    bottom:8em;
+    bottom:6em;
     left:13em;
 }
 
