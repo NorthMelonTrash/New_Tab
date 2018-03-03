@@ -89,12 +89,12 @@ p {
 
 #search {
     position:absolute;
-    bottom:15em;
-    left:13em;
+    bottom:30em;
+    left:16em;
 }
 
 #search form {
-    text-align: center !important;
+    text-align:center !important;
 }
 
 #search input {
