@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    src: url('y3.ttf');
-    font-family: 'Handwriting';
+    src: url('LinLibertine_aDRS.ttf');
+    font-family: 'Serif';
 }
 
 @font-face {
@@ -83,7 +83,7 @@ p {
     bottom: 3em;
     left:2em;
     font-size: 3em;
-    font-family: 'Handwriting';
+    font-family: 'Serif';
     letter-spacing: 0.5px;
 }
 
