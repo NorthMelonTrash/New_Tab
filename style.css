@@ -61,7 +61,7 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size: 3.5em;
+    font-size: 5em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
@@ -80,16 +80,16 @@ p {
 
 .slogan {
     position:absolute;
-    bottom: 3em;
+    bottom: 5em;
     left:2em;
-    font-size: 3em;
+    font-size: 7em;
     font-family: 'Serif';
     letter-spacing: 0.5px;
 }
 
 #search {
     position:absolute;
-    bottom:6em;
+    bottom:8em;
     left:13em;
 }
 
