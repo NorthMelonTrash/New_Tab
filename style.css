@@ -61,7 +61,7 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size: 9em;
+    font-size:11em;
     text-transform: lowercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
@@ -89,7 +89,7 @@ p {
 
 #search {
     position:absolute;
-    bottom:15em;
+    bottom:18em;
     left:11em;
 }
 
