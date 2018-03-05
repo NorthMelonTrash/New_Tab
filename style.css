@@ -53,7 +53,7 @@ body {
 
 .clock {
     position:absolute;
-    top:0.4em;
+    top:0.2em;
     left:0.3em;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
@@ -61,8 +61,8 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size: 10em;
-    text-transform: uppercase;
+    font-size: 8em;
+    text-transform: lowercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
 }
@@ -81,16 +81,16 @@ p {
 .slogan {
     position:absolute;
     top: 3em;
-    left:0.5em;
-    font-size: 5em;
+    left:1em;
+    font-size: 6em;
     font-family: 'Serif';
     letter-spacing: 0.5px;
 }
 
 #search {
     position:absolute;
-    bottom:20em;
-    left:16em;
+    bottom:10em;
+    left:10em;
 }
 
 #search form {
