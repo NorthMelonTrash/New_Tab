@@ -81,8 +81,8 @@ p {
 .slogan {
     position:absolute;
     top:2em;
-    left:0.5em;
-    font-size: 6em;
+    left:1em;
+    font-size: 7em;
     font-family: 'Serif';
     letter-spacing: 0.5px;
 }
@@ -90,7 +90,7 @@ p {
 #search {
     position:absolute;
     bottom:17em;
-    left:3.5em;
+    left:5em;
 }
 
 #search form {
