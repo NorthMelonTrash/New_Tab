@@ -64,7 +64,7 @@ body {
     font-size:12em;
     text-transform: lowercase;
     letter-spacing: 0.3px;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 #header {
@@ -90,7 +90,7 @@ p {
 #search {
     position:absolute;
     bottom:17em;
-    left:3em;
+    left:3.5em;
 }
 
 #search form {
