@@ -9,8 +9,8 @@
 }
 
 @font-face {
-    src: url('./Fonts/Aller_Rg.ttf');
-    font-family: 'Aller_Rg';
+    src: url('./Fonts/Cardinal.ttf');
+    font-family: 'Cardinal';
 }
 
 #load {
@@ -62,7 +62,7 @@ body {
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
     font-size:12em;
-    text-transform: lowercase;
+    text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #000000 !important;
      -webkit-text-stroke: 1px black;
@@ -89,7 +89,7 @@ p {
 
 .slogan {
     position:absolute;
-    top:2.2em;
+    top:2em;
     left:0.5em;
     font-size: 7em;
     font-family: 'Script';
@@ -120,8 +120,7 @@ p {
     padding: 15px;
     border: 2px solid #fff;
     border-radius: 10px;
-    src: url('Aller_Rg.ttf');
-    font-family: 'Aller_Rg';
+    font-family: 'Cardinal';
     font-size: 1.05em;
     text-align:center !important;
 }
