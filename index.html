@@ -28,7 +28,7 @@
         <script>
             //d-dont touch, baka
             function bgSet(bg) {
-                if (bg.substring(0,4) == 'http' || bg.substring(0,4) == 'file') {
+                if (bg.substring(0,4) == 'http' || bg.substring(0,4) == 'file' || bg.substring(0,1) == '/' {
                     bg = "url('" + bg + "')"; 
                 }
                 else {
@@ -54,7 +54,7 @@
                 
                 //set bg
                 //bgSet('#fbbbdd');
-                bgSet('/images/27893106_147906745899326_6103308613932023808_n.jpg');
+                bgSet('./images/27893106_147906745899326_6103308613932023808_n.jpg');
             });
         </script>
     </body>
