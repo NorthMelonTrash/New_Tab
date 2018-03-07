@@ -65,6 +65,15 @@ body {
     text-transform: lowercase;
     letter-spacing: 0.3px;
     color: #000000 !important;
+     -webkit-text-stroke: 1px black;
+    color: black;
+    text-shadow: 
+        3px 3px 0 #fff,
+        -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        1px 1px 0 #fff;
+}
 }
 
 #header {
