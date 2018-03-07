@@ -94,6 +94,14 @@ p {
     font-size: 7em;
     font-family: 'Script';
     letter-spacing: 0.5px;
+     -webkit-text-stroke: 1px black;
+    color: black;
+    text-shadow: 
+        3px 3px 0 #fff,
+        -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        1px 1px 0 #fff;
 }
 
 #search {
