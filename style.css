@@ -1,15 +1,15 @@
 @font-face {
-    src: url('Prince Valiant.ttf');
+    src: url('./Fonts/Prince Valiant.ttf');
     font-family: 'Script';
 }
 
 @font-face {
-    src: url('LinLibertine_aDRS.ttf');
+    src: url('./Fonts/LinLibertine_aDRS.ttf');
     font-family: 'Serif';
 }
 
 @font-face {
-    src: url('Aller_Rg.ttf');
+    src: url('./Fonts/Aller_Rg.ttf');
     font-family: 'Aller_Rg';
 }
 
