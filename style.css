@@ -1,6 +1,6 @@
 @font-face {
-    src: url('BASKR___.TTF');
-    font-family: 'BASKR___';
+    src: url('Prince Valiant.ttf');
+    font-family: 'Script';
 }
 
 @font-face {
@@ -92,7 +92,7 @@ p {
     top:2.2em;
     left:0.5em;
     font-size: 7em;
-    font-family: 'Serif';
+    font-family: 'Script';
     letter-spacing: 0.5px;
 }
 
