@@ -61,7 +61,7 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size:8em;
+    font-size:6em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #000000 !important;
@@ -90,7 +90,7 @@ p {
 .slogan {
     position:absolute;
     top:1em;
-    left:10em;
+    left:6em;
     font-size: 8em;
     font-family: 'Aller_Rg';
     letter-spacing: 0.5px;
