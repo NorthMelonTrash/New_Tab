@@ -61,7 +61,7 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size:12em;
+    font-size:8em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #000000 !important;
@@ -89,9 +89,9 @@ p {
 
 .slogan {
     position:absolute;
-    top:1.6em;
-    left:0.5em;
-    font-size: 7em;
+    top:0.15em;
+    left:10em;
+    font-size: 8em;
     font-family: 'Script';
     letter-spacing: 0.5px;
      -webkit-text-stroke: 1px black;
