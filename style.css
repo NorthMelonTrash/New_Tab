@@ -84,7 +84,7 @@ body {
 p {
     margin: 0;
     color: #fff;
-    font-family: 'KFhimaji';
+    font-family: 'Aller_Rg';
 }
 
 .slogan {
@@ -92,7 +92,7 @@ p {
     top:6em;
     left:3em;
     font-size: 5em;
-    font-family: 'Aller_Rg';
+    font-family: 'KFhimaji';
     letter-spacing: 0.5px;
      -webkit-text-stroke: 1px black;
     color: black;
