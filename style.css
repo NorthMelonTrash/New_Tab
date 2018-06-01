@@ -1,16 +1,16 @@
 @font-face {
-    src: url('./Fonts/Prince Valiant.ttf');
-    font-family: 'Script';
+    src: url('./Fonts/KFhimaji.otf');
+    font-family: 'KFhimaji';
 }
 
 @font-face {
-    src: url('./Fonts/LinLibertine_aDRS.ttf');
-    font-family: 'Serif';
+    src: url('./Fonts/Aller_Rg.ttf');
+    font-family: 'Aller_Rg';
 }
 
 @font-face {
-    src: url('./Fonts/Cardinal.ttf');
-    font-family: 'Cardinal';
+    src: url('./Fonts/Halogen.otf');
+    font-family: 'Halogen';
 }
 
 #load {
@@ -84,15 +84,15 @@ body {
 p {
     margin: 0;
     color: #fff;
-    font-family: 'Serif';
+    font-family: 'KFhimaji';
 }
 
 .slogan {
     position:absolute;
-    top:0.15em;
+    top:1em;
     left:10em;
     font-size: 8em;
-    font-family: 'Script';
+    font-family: 'Aller_Rg';
     letter-spacing: 0.5px;
      -webkit-text-stroke: 1px black;
     color: black;
@@ -120,7 +120,7 @@ p {
     padding: 15px;
     border: 2px solid #fff;
     border-radius: 10px;
-    font-family: 'Cardinal';
+    font-family: 'Halogen';
     font-size: 1.05em;
     text-align:center !important;
 }
