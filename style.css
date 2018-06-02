@@ -1,3 +1,7 @@
+:root {
+    --accent: #d9d9d9;
+}
+
 @font-face {
     src: url('./Fonts/KFhimaji.otf');
     font-family: 'KFhimaji';
@@ -112,14 +116,6 @@ p {
 
 #search form {
     text-align:center !important;
-    -webkit-text-stroke: 1px black;
-    color: black;
-    text-shadow: 
-        3px 3px 0 #d9d9d9,
-        -1px -1px 0 #d9d9d9,
-        1px -1px 0 #d9d9d9,
-        -1px 1px 0 #d9d9d9,
-        1px 1px 0 #d9d9d9;
 }
 
 #search input {
@@ -136,4 +132,6 @@ p {
 #search input:focus {
     outline: 0;
     color: #606060;
+    border-color:var(--accent) !important;
+    transition:300ms all;
 }
