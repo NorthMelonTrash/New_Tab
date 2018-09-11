@@ -93,8 +93,8 @@ p {
 
 .slogan {
     position:absolute;
-    top:3.3em;
-    left:3em;
+    top:3em;
+    left:3.5em;
     font-size: 5em;
     font-family: 'KFhimaji';
     letter-spacing: 0.5px;
@@ -110,7 +110,7 @@ p {
 
 #search {
     position:absolute;
-    top:22em;
+    top:20em;
     left:32em;
 }
 
