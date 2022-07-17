@@ -57,8 +57,8 @@ body {
     right: center;
     /*-moz-text-fill-color: grey;
     -webkit-text-fill-color: grey;
-    -moz-text-stroke-color: #f05c9b;
-    -webkit-text-stroke-color: #f05c9b;
+    -moz-text-stroke-color: #6B6B7F;
+    -webkit-text-stroke-color: #6B6B7F;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
     font-size:6em;
@@ -88,9 +88,10 @@ p {
 }
 
 .slogan {
-    position:absolute;
-    top:2em;
-    left:4.3em;
+    position:center;
+    top:center;
+    left:center;
+    right:center;
     font-size: 5em;
     font-family: 'Honoka';
     letter-spacing: 0.5px;
@@ -105,9 +106,10 @@ p {
 }
 
 #search {
-    position:absolute;
-    top:20em;
-    left:32em;
+    position:center;
+    top:center;
+    left:center;
+    right:center;
 }
 
 #search form {
