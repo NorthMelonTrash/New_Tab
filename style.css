@@ -57,7 +57,7 @@ body {
 
 .clock {
     position:absolute;
-    top:1cm;
+    top:100px;
     left:center;
     right: center;
     /*-moz-text-fill-color: grey;
