@@ -56,15 +56,15 @@ body {
     left:center;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
-    -moz-text-stroke-color: #FFFFFF;
-    -webkit-text-stroke-color: #FFFFFF;
+    -moz-text-stroke-color: #E1F1F1;
+    -webkit-text-stroke-color: #E1F1F1;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
     font-size:6em;
     text-transform: lowercase;
     letter-spacing: 0.3px;
     color: #6B6B7F !important;
-     -webkit-text-stroke: 1px white;
+     -webkit-text-stroke: 0.5px white;
     color: grey;
     text-shadow: 
         3px 3px 0 #DBDBDB,
