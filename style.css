@@ -3,7 +3,7 @@
 }
 
 @font-face {
-    src: url('./Fonts/KFhimaji.otf');
+    src: url('./Fonts/Honoka-Shin-Antique-Kaku_M.otf');
     font-family: 'KFhimaji';
 }
 
@@ -57,8 +57,9 @@ body {
 
 .clock {
     position:absolute;
-    top:0.15em;
-    left:4.75em;
+    top:1cm;
+    left:center;
+    right: center;
     /*-moz-text-fill-color: grey;
     -webkit-text-fill-color: grey;
     -moz-text-stroke-color: #f05c9b;
