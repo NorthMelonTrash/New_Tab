@@ -55,16 +55,16 @@ body {
     top:100px;
     left:center;
     right: center;
-    /*-moz-text-fill-color: grey;
-    -webkit-text-fill-color: grey;
-    -moz-text-stroke-color: #6B6B7F;
-    -webkit-text-stroke-color: #6B6B7F;
+    /*-moz-text-fill-color: white;
+    -webkit-text-fill-color: white;
+    -moz-text-stroke-color: #FFFFFF;
+    -webkit-text-stroke-color: #FFFFFF;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
     font-size:6em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
-    color: #99ebff !important;
+    color: #6B6B7F !important;
      -webkit-text-stroke: 1px grey;
     color: grey;
     text-shadow: 
