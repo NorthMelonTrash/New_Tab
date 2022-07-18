@@ -76,7 +76,7 @@ body {
 
 #header {
     text-align: center;
-    margin-bottom: 0.5em;
+    margin-bottom: 0em;
 }
 
 p {
@@ -87,7 +87,7 @@ p {
 
 .slogan {
     position:center;
-    top:500px;
+    top:530px;
     left:center;
     right:center;
     font-size: 5em;
