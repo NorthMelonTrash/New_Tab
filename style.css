@@ -106,7 +106,7 @@ p {
 
 #search {
     position:center;
-    top:450px;
+    top:200px;
     left:center;
     right:center;
 }
@@ -118,7 +118,7 @@ p {
 #search input {
     height: 15px;
     width: 200px;
-    padding: 5px;
+    padding: 15px;
     border: 2px solid #fff;
     border-radius: 10px;
     font-family: 'TheWorthed';
