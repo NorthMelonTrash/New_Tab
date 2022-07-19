@@ -53,8 +53,8 @@ body {
 .clock {
     position:absolute;
     top:0px;
-    right:center;
-    bottom:1500px;
+    left:500px;
+    bottom:2000px;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #E1F1F1;
@@ -89,7 +89,7 @@ p {
 
 .slogan {
     position:center;
-    bottom:150px;
+    top:900px;
     left:center;
     right:center;
     font-size: 5em;
@@ -107,7 +107,7 @@ p {
 
 #search {
     position:center;
-    bottom:100px;
+    bottom:50px;
     left:center;
     right:center;
 }
