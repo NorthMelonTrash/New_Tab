@@ -54,7 +54,7 @@ body {
     position:absolute;
     top:0px;
     right:center;
-    bottom:700px;
+    bottom:1000px;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #E1F1F1;
@@ -107,7 +107,7 @@ p {
 
 #search {
     position:center;
-    top:100px;
+    top:300px;
     left:center;
     right:center;
 }
