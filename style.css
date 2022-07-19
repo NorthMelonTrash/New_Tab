@@ -54,7 +54,7 @@ body {
     position:absolute;
     top:0px;
     right:center;
-    bottom:1000px;
+    bottom:1500px;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #E1F1F1;
@@ -89,7 +89,7 @@ p {
 
 .slogan {
     position:center;
-    bottom:300px;
+    bottom:150px;
     left:center;
     right:center;
     font-size: 5em;
@@ -107,7 +107,7 @@ p {
 
 #search {
     position:center;
-    bottom:200px;
+    bottom:100px;
     left:center;
     right:center;
 }
