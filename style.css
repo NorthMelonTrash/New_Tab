@@ -89,7 +89,7 @@ p {
 
 .slogan {
     position:center;
-    top:900px;
+    bottom:300px;
     left:center;
     right:center;
     font-size: 5em;
@@ -107,7 +107,7 @@ p {
 
 #search {
     position:center;
-    top:700px;
+    bottom:200px;
     left:center;
     right:center;
 }
