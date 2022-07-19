@@ -51,9 +51,10 @@ body {
 }
 
 .clock {
-    position:center;
+    position:absolute;
     top:0px;
-    bottom:1000px;
+    right:center;
+    bottom:700px;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #E1F1F1;
