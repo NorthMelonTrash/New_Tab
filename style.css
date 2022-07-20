@@ -34,7 +34,7 @@ html {
 }
 
 body {
-    background-size: contain !important;
+    background-size: cover !important;
     background-repeat: no-repeat !important; 
     background-position: center !important;
 }
