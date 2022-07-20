@@ -94,6 +94,7 @@ p {
     top:2000px;
     left:center;
     right:center;
+    line-height: 1;
     font-size: 5em;
     font-family: 'TheWorthed';
     letter-spacing: 0.5px;
