@@ -34,14 +34,8 @@ html {
 }
 
 body {
-    //background-size: cover !important;
-    //background-repeat: no-repeat !important; 
-}
-
-#bg {
-    background-image: url('./images/NierKaine.jpeg');
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: contain !important;
+    background-repeat: no-repeat !important; 
 }
 
 #container {
